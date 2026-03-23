@@ -35,7 +35,7 @@ The objective is to evaluate how effectively different models capture temporal p
 
 ## Model Comparison
 
-![Model Comparison](results/model_comparison.png)
+![Model Comparison](result/model_comparison.png)
 
 ---
 
