@@ -1,0 +1,5 @@
+Model,RMSE
+Random Forest,12.5
+LSTM,10.2
+GRU,10.8
+Transformer,9.7
